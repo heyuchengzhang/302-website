@@ -1,0 +1,15 @@
+---
+title: "Welcome to my site"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/heyuchengzhang
+    - icon: envelope
+      text: "Email"
+      href: "mailto:heyucheng.zhang@mail.utoronto.ca"
+
+---
+
+Hi, I am Heyucheng Zhang. I am an undergraduate student at the University of Toronto who is deeply involved in the diverse fields of computer science, statistics, and mathematics. I am driven to pursue my academic goals with a strong desire to better understand the theoretical foundations and real-world applications of the subjects I study. Feel free to get in touch with me!

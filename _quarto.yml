@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Heyucheng Zhang"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "CV"
+        href: pdf/Resume.pdf
+
+    right:
+      - icon: github
+        href: https://github.com/heyuchengzhang
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
